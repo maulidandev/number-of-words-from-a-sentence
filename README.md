@@ -3,9 +3,14 @@ Program akan menerima inputan berupa kalimat dengan maksimal 300 karakter dan da
 
 Contoh masukkan (input) dan (output) dari program ini adalah sebagai berikut:
 ```
+Masukkan kalimat : saya sedang belajar pemrograman..
+```
+Contoh output : 
+```
+Banyaknya kata : 4
 ```
 
 ## How To Run
-File Program : </br>
-Compile : </br>
-Run : </br>
+File Program : NumberOfWordsFromASentence.c </br>
+Compile : gcc -o NumberOfWordsFromASentence NumberOfWordsFromASentence.c </br>
+Run : ./NumberOfWordsFromASentence </br>
